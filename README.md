@@ -1,11 +1,8 @@
-## Hi there 👋
-
-<!--
 <h1 align="left">Hey 👋</h1>
 
 ###
 
-<h3 align="left">My name is Mattia, and I am an Italian university student studying computer science with a strong interest in computer vision and ML</h3>
+<h3 align="left">My name is <a href="https://www.instagram.com/gasperonimattia/?hl=it">Mattia</a>, and I am an Italian university student studying computer science with a strong interest in computer vision and ML</h3>
 
 ###
 
