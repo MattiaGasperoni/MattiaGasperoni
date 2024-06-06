@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is <a href="https://www.instagram.com/gasperonimattia/?hl=it">Mattia</a>, and I am an Italian university student studying computer science with a strong interest in computer vision and ML</h3>
+<h3 align="left">My name is <a href="https://www.instagram.com/gasperonimattia/?hl=it">Mattia</a>, and I am an Italian student of computer science with a strong interest in computer vision and ML</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">📚 Universita degli studi di Urbino Carlo Bo - Computer Science<br> Connect with me on <a href="https://www.instagram.com/gasperonimattia/?hl=it">Linkedin</a>
 
 ###
 
