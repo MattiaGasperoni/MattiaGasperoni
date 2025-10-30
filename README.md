@@ -2,7 +2,7 @@
 
 <h3 align="left">
   My name is <a href="https://www.instagram.com/gasperonimattia/?hl=it" target="_blank">Mattia</a>, 
-  and I'm an Italian computer science student with a strong interest in Computer Vision and Machine Learning.
+  and I'm an Italian computer science student with a strong interest in Computer Vision and Automation.
 </h3>
 
 ---
